@@ -1,9 +1,9 @@
-# < Title of your final project >
+# Title of your final project
 
 ### Groups
-* < name, student ID1 >
-* < name, student ID2 >
-* < name, student ID3 >
+* name, student ID1
+* name, student ID2
+* name, student ID3
 * ...
 
 ### Goal
